@@ -1,4 +1,4 @@
-# ML-with-PyTorch
+# Machine Learning w/ PyTorch
 Deep Learning with PyTorch (Neural Nets, Computer Vision)
 ## Projects
 
