@@ -1,5 +1,5 @@
 # Machine Learning w/ PyTorch
-Deep Learning with PyTorch (Neural Nets, Computer Vision)
+Deep Learning with PyTorch (Neural Networks, Computer Vision)
 ## Projects
 
 ## Tutorial
